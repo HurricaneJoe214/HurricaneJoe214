@@ -1,4 +1,6 @@
--Hello, I'm @HurricaneJoe214\n
+-Hello, I'm @HurricaneJoe214
+-
+-
 -I work for IBM and specifically in Watson Advertising and Weather. Weather is a fascinating topic.
 -I’m currently learning new used of Python and R with regards to manipulating weather data for my clients.
 -
