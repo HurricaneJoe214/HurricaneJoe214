@@ -1,5 +1,5 @@
--Hello, I'm @HurricaneJoe214
--I’m interested in a great many things. I work for IBM and specifically in Watson Advertising and Weather. Weather is a fascinating topic.
+-Hello, I'm @HurricaneJoe214\n
+-I work for IBM and specifically in Watson Advertising and Weather. Weather is a fascinating topic.
 -I’m currently learning new used of Python and R with regards to manipulating weather data for my clients.
 -
 - 📫 I can be reached via my IBM email: joe.ziskovsky@us.ibm.com
